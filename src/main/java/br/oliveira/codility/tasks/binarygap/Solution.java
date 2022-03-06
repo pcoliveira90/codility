@@ -1,4 +1,4 @@
-package br.oliveira.codility.tasks.task01;
+package br.oliveira.codility.tasks.binarygap;
 
 public class Solution {
     public int solution(int N) {
